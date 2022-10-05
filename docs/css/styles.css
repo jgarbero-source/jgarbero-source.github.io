@@ -4666,6 +4666,19 @@ textarea.form-control-lg {
   }
 }
 
+.download {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.download:hover {
+  background-color: RoyalBlue;
+}
+
 .accordion-button {
   position: relative;
   display: flex;
